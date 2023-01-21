@@ -1,0 +1,220 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#main-A {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    margin-top: 2%;
+}
+
+#menu {
+    height: 3000px;
+    width: 20%;
+    background-color: gray;
+}
+
+h1 {
+    border: 5px solid white;
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin-top: 5px;
+    padding: 20px 40px;
+    font-size: 20px;
+    color: white;
+}
+
+li {
+    padding: 10px;
+}
+
+i {
+    margin-left: 30px;
+}
+
+h5 {
+    margin-left: 40px;
+    color: white;
+    margin-top: 10px;
+}
+
+#image {
+    height: 500px;
+    width: 80%;
+    position: relative;
+    margin: 2px;
+}
+
+img {
+    height: 500px;
+    width: 100%;
+    margin-left: 0%;
+}
+
+.image img {
+    height: 500px;
+    width: 80%;
+    display: flex;
+}
+
+.heading {
+    color: white;
+    display: flex;
+    position: absolute;
+    font-size: 30px;
+    top: 45%;
+    margin-left: 50%;
+    text-align: center;
+}
+
+pre {
+    top: 50%;
+    position: absolute;
+    margin-left: 40%;
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    text-align: justify;
+    font-size: 15px;
+    border: 2px white;
+}
+
+.main-B {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    color: blue;
+}
+
+.div-1 {
+    height: 500px;
+    width: 20%;
+    display: flex;
+}
+
+.details1 img {
+    height: 60px;
+    width: 10%;
+    background-color: white;
+    position: absolute;
+    top: 70%;
+    margin-left: 20%;
+    margin-top: 0%;
+}
+
+.about {
+    height: 30px;
+    width: 20%;
+    position: absolute;
+    top: 60%;
+    margin-left: 20%;
+    margin-top: 8%;
+    font-size: 20px;
+}
+
+.details2 img {
+    height: 60px;
+    width: 10%;
+    position: absolute;
+    top: 70%;
+    margin-left: 50%;
+    margin-top: 0%;
+}
+
+.profile {
+    height: 30px;
+    width: 20%;
+    position: absolute;
+    top: 60%;
+    margin-left: 50%;
+    margin-top: 8%;
+    font-size: 20px;
+}
+
+.main-C {
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+
+.div-2 {
+    height: 300px;
+    width: 20%;
+    display: flex;
+}
+
+.img1 {
+    height: 150px;
+    width: 70%;
+    position: absolute;
+    top: 105%;
+    margin-left: 25%;
+}
+
+.main-D {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    color: blue;
+}
+
+.div-3 {
+    height: 300px;
+    width: 20%;
+    display: flex;
+}
+
+.img2 {
+    height: 20px;
+    width: 60%;
+    position: absolute;
+    top: 170%;
+    margin-left: 25%;
+}
+
+p {
+    font-size: 25px;
+}
+
+.main-F {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    color: blue;
+}
+
+.div-4 {
+    height: 400px;
+    width: 20%;
+    display: flex;
+}
+
+.PARA {
+    height: 400px;
+    width: 30%;
+    top: 350%;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 25%;
+}
+
+.form {
+    height: 400px;
+    width: 35%;
+    top: 250%;
+    margin-left: 65%;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+}
